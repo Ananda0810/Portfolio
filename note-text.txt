@@ -1,0 +1,18 @@
+
+1-row=12columns/6columns
+1row=100%
+1column=1/12=0.833*100=8.33%
+........
+6 column = 6/12=0.5=50%
+........
+12 column = 12/12=1*100=100%
+......
+
+horizantal ga pic  content ravalante display use cheyyali
+
+color properties
+Hexa -#ff09
+RGB - red green blue 
+RGBa red green blue opacity
+HSL - hue saturation lightness
+HWB - hue whiteness blackness
