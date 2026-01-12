@@ -82,6 +82,7 @@ p{
 .main-menu img{
     width: 100%;
     background-color: #b1b5b7f0;
+    height: auto;
 }
 .main-menu ul{
     padding:24px 10px;
@@ -95,14 +96,17 @@ p{
     color:black;
     text-transform: uppercase;
     font-size: 12px;
-    letter-spacing: 2px;    
+    letter-spacing: 2px; 
+    display: block;
+    padding: 10px 0;
 }
 .main-menu ul li.active a{
     color:white;
 }
 .main-menu ul li{
-    line-height: 1.25cm;
+    line-height: 2rem;
 }
+
 /* about page*/
 .main-text-bg{
     background-color:#ddd;
@@ -329,3 +333,4 @@ margin-bottom: 12px;
 .home-container>.row{
     height: 100vh;
 }
+
